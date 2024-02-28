@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
 <h3 align="center">"Building Tomorrow's Web Today: Meet Your MERN Stack Maestro"</h3>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnY4eDE2NmhoYTJvcHR5Nm51anFsZ3Byc3VyZjYzbTNzenk3MmI5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="coding" srcset="" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eivorz&label=Profile%20views&color=0e75b6&style=flat" alt="eivorz" /> </p>
 
@@ -16,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/e_v_i_o_r__" target="blank">
-<img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGprenhuNWphMnh5dGxiOWJud2ExNWdqa2JoNHNwZnhhZmc2c3JhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDPzywpcKUkEw/giphy.gif" alt="e_v_i_o_r__" height="30" width="40" /></a>
+<a href="https://www.instagram.com/e_i_v_o_r__/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_v_i_o_r__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
