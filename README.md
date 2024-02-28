@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/e_v_i_o_r__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_v_i_o_r__" height="30" width="40" /></a>
+<a href="https://instagram.com/e_v_i_o_r__" target="blank">
+<img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGprenhuNWphMnh5dGxiOWJud2ExNWdqa2JoNHNwZnhhZmc2c3JhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDPzywpcKUkEw/giphy.gif" alt="e_v_i_o_r__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
